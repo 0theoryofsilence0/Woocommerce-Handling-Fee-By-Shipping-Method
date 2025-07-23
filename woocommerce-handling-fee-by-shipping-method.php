@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name: WooCommerce Handling Fee by Shipping Method 
- * Description: Adds a configurable handling fee only for Interparcel shipping method. Excludes ds_local_pickup.
+ * Description: Adds a configurable handling fee only for Interparcel shipping method and Local Pickup by theDotStore method.
  * Version: 1.5
  * Author: Paperdino (Julius Enriquez)
  */
